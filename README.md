@@ -1,0 +1,3 @@
+# similicious.de
+
+So far just the configuration for the redirect to my GitHub profile ...
